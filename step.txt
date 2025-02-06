@@ -1,0 +1,49 @@
+1. JavaScript Pur (Vanilla JS)
+Avant de plonger dans les frameworks, assure-toi de bien comprendre JavaScript natif :
+
+Les bases : variables, types de données, conditions, boucles.
+Fonctions et scope.
+DOM Manipulation (ajouter/supprimer des éléments, événements).
+ES6+ (let/const, arrow functions, destructuring, spread/rest operators).
+Promises & Async/Await (gestion asynchrone).
+Modules (import/export).
+👉 Exercice : Recréer un petit projet (ex. To-Do List) en JS pur.
+
+2. JavaScript Avancé
+API Fetch (Appels AJAX, travailler avec JSON).
+LocalStorage et sessionStorage.
+Programmation orientée objet en JS (classes, héritage).
+Event Loop et Callbacks.
+3. Choix du Framework
+Après avoir une bonne base en JS, tu peux commencer avec un framework. Les plus populaires :
+
+React.js (très utilisé, puissant, flexible).
+Vue.js (plus simple à apprendre, excellent pour les petits/moyens projets).
+Svelte (nouvelle approche, sans Virtual DOM).
+👉 Conseil : Commence par React.js car c'est le plus demandé sur le marché.
+
+4. Apprendre React.js
+JSX et Components.
+Props et State.
+Hooks (useState, useEffect, useContext).
+Gestion des formulaires et événements.
+React Router (navigation entre pages).
+API calls avec React (Fetch/Axios).
+State Management (Redux ou Context API).
+👉 Exercice : Refaire ton projet To-Do List en React.
+
+5. Perfectionnement et Projets
+Améliorer la performance (Lazy Loading, Memoization).
+Tester son code (Jest, React Testing Library).
+Apprendre TypeScript pour un code plus robuste.
+Construire des projets complets avec backend (Express.js, Firebase, Supabase, etc.).
+Apprendre Next.js pour un développement plus avancé.
+📌 Plan d’action :
+
+Renforce tes bases en JavaScript (1 mois).
+Apprends React.js progressivement (1-2 mois).
+Crée des projets concrets pour pratiquer.
+Explore d’autres frameworks (Vue.js, Svelte) et outils avancés (Next.js, TailwindCSS).
+🔥 Le plus important : Pratique un maximum avec des projets concrets !
+
+Si tu veux un plan détaillé semaine par semaine, dis-moi. 😊
